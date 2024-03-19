@@ -8,7 +8,6 @@
 html,body{
     height: 100%;
     background-color: #D5E1EF;
-   
 }
 
 
@@ -16,10 +15,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding-top: 50px;
-   
-    
-    
+    padding-top: 50px;  
 }
 
 
@@ -50,8 +46,7 @@ html,body{
     padding: 20px;
     font-weight: bold 700;
     font-size: 23px;
-    text-align: center;
-    
+    text-align: center; 
 }
 
 .texto p{
